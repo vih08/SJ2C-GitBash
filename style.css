@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 0;
+    margin-top: 0;
+    background: 
+}
+
+
+.div-fundo{
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(203, 171, 218), rgb(203, 171, 218)); 
+}
